@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59fe9b66-fb46-4ed1-9a91-2fe10db2e7ab" name="Changes" comment="Low level design patterns" />
+    <list default="true" id="59fe9b66-fb46-4ed1-9a91-2fe10db2e7ab" name="Changes" comment="Low level design patterns changes">
+      <change beforePath="$PROJECT_DIR$/src/chainresponsibilitypattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chainresponsibilitypattern/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699383816298</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Low level design patterns changes">
+      <created>1699660369876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699660369876</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Low level design patterns changes">
+      <created>1699660595804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699660595804</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +171,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Low level design patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Low level design patterns" />
+    <MESSAGE value="Low level design patterns changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Low level design patterns changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
