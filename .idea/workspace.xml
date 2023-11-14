@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78fdb9f4-5469-4a0a-9027-e1a9b4bf5262" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lowLevelDesigns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lowLevelDesigns/hashmapPkg/MyHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lowLevelDesigns/hashmapPkg/MyHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashmapPkg/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashmapPkg/MyHashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
