@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59fe9b66-fb46-4ed1-9a91-2fe10db2e7ab" name="Changes" comment="Low level design patterns changes">
-      <change beforePath="$PROJECT_DIR$/src/chainresponsibilitypattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chainresponsibilitypattern/Main.java" afterDir="false" />
+    <list default="true" id="78fdb9f4-5469-4a0a-9027-e1a9b4bf5262" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lowLevelDesigns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +19,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -26,11 +29,8 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-  </component>
-  <component name="ProjectId" id="2XSp92nPFKROjGbw7LwvfDq5F8X" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2YB5tQ9GBdkb8UQ2E4LcHDFDBOb" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -39,61 +39,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chainresponsibilitypattern.Main">
+  <component name="RunManager" selected="Application.MyHashMap">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="DesignPatterns" />
+      <module name="lowLevelDesigns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmapPkg.MyHashMap" />
+      <module name="lowLevelDesigns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashmapPkg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObservorPattern.Test" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObservorPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chainresponsibilitypattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chainresponsibilitypattern.Main" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chainresponsibilitypattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="decoratorpattern.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decoratorpattern.Test" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="decoratorpattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="factorypattern.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factorypattern.Test" />
-      <module name="DesignPatterns" />
+      <module name="lowLevelDesigns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="factorypattern.*" />
@@ -104,12 +81,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chainresponsibilitypattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chainresponsibilitypattern.Main" />
+      <module name="lowLevelDesigns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chainresponsibilitypattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.chainresponsibilitypattern.Main" />
-        <item itemvalue="Application.factorypattern.Test" />
-        <item itemvalue="Application.decoratorpattern.Test" />
+        <item itemvalue="Application.MyHashMap" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.chainresponsibilitypattern.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -117,76 +106,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="59fe9b66-fb46-4ed1-9a91-2fe10db2e7ab" name="Changes" comment="" />
-      <created>1698632181689</created>
+      <changelist id="78fdb9f4-5469-4a0a-9027-e1a9b4bf5262" name="Changes" comment="" />
+      <created>1699986346907</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698632181689</updated>
+      <updated>1699986346907</updated>
     </task>
-    <task id="LOCAL-00001" summary="Low level design patterns">
-      <created>1699383692900</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1699383692900</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Low level design patterns">
-      <created>1699383816297</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1699383816298</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Low level design patterns changes">
-      <created>1699660369876</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1699660369876</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Low level design patterns changes">
-      <created>1699660595804</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1699660595804</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/src" />
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <MESSAGE value="Low level design patterns" />
-    <MESSAGE value="Low level design patterns changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Low level design patterns changes" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>4</line>
-          <properties class="Main" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
